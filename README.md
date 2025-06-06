@@ -1,5 +1,5 @@
 # Twilio SMS Notification Script for SMA OpCon
-This repository contains a powershell script and procedures for implementing using Twilio for your SMS notifications within SMA OpCon. Please refer to the procedures Word Document for information on how to set up and configure this functionality.
+This repository contains a powershell script and procedures for implementing Twilio for your SMS notifications within SMA OpCon. Please refer to the procedures below for information on how to set up and configure this functionality.
  
 
 # Disclaimer
